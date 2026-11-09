@@ -43,17 +43,17 @@ The random seed is fixed at 42 so results are reproducible.
 ### ReLU
 Live app: https://ailabreport4-relu.streamlit.app/
 
-![ReLU app](screenshots/relu.png)
+![ReLU app](screenshot/relu.png)
 
 ### Sigmoid
 Live app: https://ailabreport4-sigmoid.streamlit.app/
 
-![Sigmoid app](screenshots/sigmoid.png)
+![Sigmoid app](screenshot/sigmoid.png)
 
 ### Tanh
 Live app: https://ailabreport4-tanh.streamlit.app/
 
-![Tanh app](screenshots/tanh.png)
+![Tanh app](screenshot/tanh.png)
 
 ## Activation Functions Summary
 
@@ -90,14 +90,6 @@ streamlit run tanh_app.py
 4. The app opens in your browser at `http://localhost:8501`. Press `Ctrl + C` in the terminal to stop it.
 
 ---
-
-## Deployment (Streamlit Community Cloud)
-
-1. Push this repository to GitHub.
-2. Sign in at [share.streamlit.io](https://share.streamlit.io) with your GitHub account.
-3. Click **Create app** and select this repository.
-4. Set **Main file path** to `relu_app.py`, then deploy.
-5. Repeat steps 3 and 4 for `sigmoid_app.py` and `tanh_app.py`. Each app gets its own link.
 
 ## Repository Structure
 
