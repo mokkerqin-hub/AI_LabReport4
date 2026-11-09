@@ -87,7 +87,7 @@ streamlit run relu_app.py
 streamlit run sigmoid_app.py
 streamlit run tanh_app.py
 ```
-4. The app opens in your browser at `http://localhost:8501`. Press `Ctrl + C` in the terminal to stop it.
+4. The app opens in your browser at `http://localhost:8501`. 
 
 ---
 
