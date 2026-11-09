@@ -1,6 +1,6 @@
 # Activation Function Visualiser (ReLU, Sigmoid, Tanh)
 
-**BSD3513 Introduction to Artificial Intelligence – Lab Report 4 (Chapter 4: Neural Networks)**
+**BSD3513 Introduction to Artificial Intelligence – Lab Report 4**
 
 Name: `<MOK KER QIN>`  |  Student ID: `<SD24032>` 
 
