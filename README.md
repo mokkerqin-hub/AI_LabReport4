@@ -2,7 +2,7 @@
 
 **BSD3513 Introduction to Artificial Intelligence – Lab Report 4**
 
-Name: `<MOK KER QIN>`  |  Student ID: `<SD24032>` 
+MOK KER QIN | SD24032
 
 This repository has three separate Streamlit web apps. Each one visualises a neural network activation function:
 
