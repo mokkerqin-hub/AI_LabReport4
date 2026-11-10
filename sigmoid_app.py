@@ -1,4 +1,3 @@
-# sigmoid_app.py
 # Streamlit app: Visualise the Sigmoid (logistic) activation function
 
 import streamlit as st
